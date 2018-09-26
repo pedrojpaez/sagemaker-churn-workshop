@@ -1,7 +1,5 @@
-# sagemaker-lab
-Resources for Sagemaker lab
-
-Sagemaker Churn workshop
+# sagemaker-churn-workshop
+Resources for Sagemaker churn workshop
 
 This lab includes two example notebooks for customer churn modelling using Sagemaker's XGboost implementation.
 
